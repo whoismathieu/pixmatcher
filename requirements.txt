@@ -1,0 +1,14 @@
+clip>=0.2.0
+faiss-cpu>=1.10.0
+matplotlib>=3.9.4
+pip-chill>=1.0.3
+pipreqs>=0.5.0
+scikit-learn>=1.6.1
+setuptools>=68.2.0
+streamlit>=1.44.1
+streamlit-option-menu>=0.3.6
+tinycss2>=1.4.0
+torchvision>=0.21.0
+tqdm>=4.67.1
+wheel>=0.41.2
+git+https://github.com/openai/CLIP.git

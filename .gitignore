@@ -1,0 +1,46 @@
+# === Fichiers Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# === Environnement virtuel ===
+venv/
+env/
+.venv/
+
+# === IDE JetBrains (PyCharm, IntelliJ) ===
+.idea/
+
+# === Fichiers système ===
+.DS_Store
+Thumbs.db
+
+# === Fichiers de logs et temporaires ===
+*.log
+*.tmp
+*.swp
+
+# === Compilations Cython ou autres extensions natives ===
+build/
+dist/
+*.egg-info/
+
+# === Tests (si usage de coverage ou pytest cache) ===
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# === Notebooks Jupyter (optionnel) ===
+.ipynb_checkpoints/
+
+# === Configuration OS optionnelle ===
+*.bak
+
+# === Images et gros fichiers ===
+ressources/open-images/*
+ressources/tiny-imagenet/tiny-imagenet-200/
+ressources/tiny-imagenet/*.npy
+ressources/*.png
