@@ -124,10 +124,10 @@ python3 test/app_test.py <mobilenet|clip> <image_path|query_text>
 ## Authors and Other Information
 
 **PixMatcher Team :**
-- Nassilya Belguedj
 - Aaron Aidoudi
-- Julie Colliere
 - Mathieu Moustache
+- Julie Colliere
+- Nassilya Belguedj
 
 **Supervised by**  Mr. Camille Kurtz, as part of the L3E1 project of the third year of the Computer Science degree at Paris Cité University.
 
