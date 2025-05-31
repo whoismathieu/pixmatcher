@@ -44,3 +44,4 @@ ressources/open-images/*
 ressources/tiny-imagenet/tiny-imagenet-200/
 ressources/tiny-imagenet/*.npy
 ressources/*.png
+!**/.gitkeep
